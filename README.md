@@ -25,3 +25,8 @@ This repository leverages **Power BI**, a powerful business analytics tool that 
 3. **Create Visualizations**: Use Power BI’s drag-and-drop interface to create interactive visuals.
 4. **Publish Reports**: Publish your reports to the Power BI service for online access and sharing.
 5. **Embed in Applications**: Integrate Power BI dashboards and reports into your web or mobile applications using the Power BI API.
+
+### Repository Contents
+
+- **Sample Dashboard**: A fully-featured Power BI dashboard included in this repository, showcasing a range of data visualizations.
+- **Charts**: This repository includes charts that range from basic to advanced, demonstrating how to use various Power BI visualizations effectively.
