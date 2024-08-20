@@ -25,20 +25,3 @@ This repository leverages **Power BI**, a powerful business analytics tool that 
 3. **Create Visualizations**: Use Power BI’s drag-and-drop interface to create interactive visuals.
 4. **Publish Reports**: Publish your reports to the Power BI service for online access and sharing.
 5. **Embed in Applications**: Integrate Power BI dashboards and reports into your web or mobile applications using the Power BI API.
-
-### Repository Contents
-
-- **Scripts**: Contains scripts for data extraction, transformation, and loading (ETL) processes.
-- **Dashboards**: Pre-built Power BI dashboards and reports.
-- **Documentation**: Detailed documentation on how to set up and use the Power BI reports included in this repository.
-### Contributing
-
-We welcome contributions to enhance the Power BI reports and integration processes. Please refer to the [Contributing Guidelines](./CONTRIBUTING.md) for more information.
-
-### License
-
-This project is licensed under the [MIT License](./LICENSE).
-
-### Acknowledgments
-
-Special thanks to the contributors and the community for their ongoing support and feedback.
